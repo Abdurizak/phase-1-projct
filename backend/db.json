@@ -1,0 +1,144 @@
+{
+  "meals": [
+      {
+          "name": "Margherita Pizza",
+          "description": "A classic Italian pizza topped with fresh mozzarella, tomatoes, and basil.",
+          "image": "margherita.jpg",
+          "cuisine": "Italian",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Sushi",
+          "description": "A Japanese dish consisting of vinegared rice accompanied by various ingredients, including seafood and vegetables.",
+          "image": "sushi.jpg",
+          "cuisine": "Japanese",
+          "mealType": "lunch"
+      },
+      {
+          "name": "Tacos",
+          "description": "A traditional Mexican dish made of corn or wheat tortilla folded or rolled around a filling.",
+          "image": "tacos.jpg",
+          "cuisine": "Mexican",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Butter Chicken",
+          "description": "A popular Indian dish made with marinated chicken in a creamy tomato sauce.",
+          "image": "butter_chicken.jpg",
+          "cuisine": "Indian",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Pad Thai",
+          "description": "A stir-fried rice noodle dish commonly served as street food in Thailand.",
+          "image": "pad_thai.jpg",
+          "cuisine": "Thai",
+          "mealType": "lunch"
+      },
+      {
+          "name": "Beef Stroganoff",
+          "description": "A Russian dish of sautéed beef in a creamy sauce served with noodles or rice.",
+          "image": "beef_stroganoff.jpg",
+          "cuisine": "Russian",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Falafel Wrap",
+          "description": "A Middle Eastern dish made of ground chickpeas, served in a pita with vegetables and tahini sauce.",
+          "image": "falafel_wrap.jpg",
+          "cuisine": "Middle Eastern",
+          "mealType": "lunch"
+      },
+      {
+          "name": "Greek Salad",
+          "description": "A fresh salad made with tomatoes, cucumbers, olives, and feta cheese, dressed with olive oil.",
+          "image": "greek_salad.jpg",
+          "cuisine": "Greek",
+          "mealType": "lunch"
+      },
+      {
+          "name": "Chicken Adobo",
+          "description": "A Filipino dish made of chicken marinated in vinegar, soy sauce, and garlic, then simmered to perfection.",
+          "image": "chicken_adobo.jpg",
+          "cuisine": "Filipino",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Ramen",
+          "description": "A Japanese noodle soup dish with rich broth, often topped with slices of meat, nori, and green onions.",
+          "image": "ramen.jpg",
+          "cuisine": "Japanese",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Quiche Lorraine",
+          "description": "A savory French tart filled with cream, eggs, cheese, and bacon.",
+          "image": "quiche_lorraine.jpg",
+          "cuisine": "French",
+          "mealType": "brunch"
+      },
+      {
+          "name": "Biryani",
+          "description": "A flavorful South Asian dish made with spiced rice and marinated meat or vegetables.",
+          "image": "biryani.jpg",
+          "cuisine": "Indian",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Ceviche",
+          "description": "A Latin American dish of raw fish marinated in citrus juices, often served with onions and cilantro.",
+          "image": "ceviche.jpg",
+          "cuisine": "Peruvian",
+          "mealType": "lunch"
+      },
+      {
+          "name": "Korean BBQ",
+          "description": "A popular Korean cooking method where various meats are grilled at the table.",
+          "image": "korean_bbq.jpg",
+          "cuisine": "Korean",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Moussaka",
+          "description": "A Greek casserole made with layers of eggplant, minced meat, and béchamel sauce.",
+          "image": "moussaka.jpg",
+          "cuisine": "Greek",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Shakshuka",
+          "description": "A North African dish of poached eggs in a sauce of tomatoes, chili peppers, and onions.",
+          "image": "shakshuka.jpg",
+          "cuisine": "North African",
+          "mealType": "breakfast"
+      },
+      {
+          "name": "Poutine",
+          "description": "A Canadian dish consisting of fries topped with cheese curds and gravy.",
+          "image": "poutine.jpg",
+          "cuisine": "Canadian",
+          "mealType": "snack"
+      },
+      {
+          "name": "Goulash",
+          "description": "A Hungarian stew of meat and vegetables, seasoned with paprika and other spices.",
+          "image": "goulash.jpg",
+          "cuisine": "Hungarian",
+          "mealType": "dinner"
+      },
+      {
+          "name": "Fried Rice",
+          "description": "A dish made from pre-cooked rice that is stir-fried in a wok with ingredients such as vegetables, eggs, and meat.",
+          "image": "fried_rice.jpg",
+          "cuisine": "Chinese",
+          "mealType": "lunch"
+      },
+      {
+          "name": "Spanakopita",
+          "description": "A Greek pastry filled with spinach and feta cheese, wrapped in flaky phyllo dough.",
+          "image": "spanakopita.jpg",
+          "cuisine": "Greek",
+          "mealType": "snack"
+      }
+  ]
+}
